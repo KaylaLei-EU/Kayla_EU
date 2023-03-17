@@ -1,3 +1,3 @@
-# Read me
+# Updating Readme
 
-Hello!
+Hello, I'm Kayla!
